@@ -1,19 +1,13 @@
-=== Local Weather Report ===
+LECTURE 4 – SHELL, VIM AND GIT
 
+Task 1: Local Weather Report
+Created a Bash script using curl and jq to retrieve and display current weather information for Nordhausen, Germany.
 
-Detecting location from IP address...
-Location detected: Nordhausen, Germany
-Coordinates: 51.5107417, 10.7717833
+Task 2: VIM Master
+Successfully completed all 18 levels of VIM Master with 100% completion. The progress code is included above.
 
-Fetching weather data...
-========================================
-Current Weather in Nordhausen, Germany
-========================================
-Temperature: 4.4°C (39.9°F)
-Feels Like: 2.3°C
-Condition: Overcast
-Humidity: 86%
-Wind Speed: 2.3 km/h
-========================================
-VIM MASTER PROGRESS CODE:
-VIM_MASTER_PROGRESS_eyJ2ZXJzaW9uIjoiMS4wIiwidGltZXN0YW1wIjoxNzk0MDYwMTkxNDk5LCJiYWRnZXMiOlsiYmVnaW5uZXIiLCJzZWFyY2htYXN0ZXIiXSwicHJhY3RpY2VkQ29tbWFuZHMiOlsial9kb3duIiwibF9yaWdodCIsImhfbGVmdCIsImtfdXAiLCJ3X3dvcmRfZm9yd2FyZCIsInNlYXJjaF9mb3J3YXJkIiwic2VhcmNoX25leHQiLCJzZWFyY2hfYmFja3dhcmQiLCJzZWFyY2hfcHJldmlvdXMiLCJiX3dvcmRfYmFja3dhcmQiXSwiY3VycmVudExldmVsIjoxNywiY2hhbGxlbmdlTW9kZSI6ZmFsc2UsImNoYWxsZW5nZVBvaW50cyI6MCwieHAiOjAsImNvbWJvIjowfQ==
+Task 3: GitHub SSH Authentication
+Configured SSH authentication and verified successful access to GitHub from the Ubuntu virtual machine.
+
+Task 4: Git Repository
+Created the assignment directory and prepared the files for submission through a GitHub pull request.
