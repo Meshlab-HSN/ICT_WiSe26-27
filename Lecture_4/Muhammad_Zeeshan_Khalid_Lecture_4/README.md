@@ -1,1 +1,34 @@
-# Lecture 4 - Muhammad Zeeshan Khalid 
+\# Lecture 4 - Muhammad Zeeshan Khalid
+
+
+
+\## Task 1 - Weather Script
+
+Script: `weather.sh`
+
+
+
+\### Output:
+
+Hafizabad, Punjab, PK: +19°C
+
+
+
+!\[Weather Output](weather\_output.png)
+
+
+
+\## Task 2 - Vim Master
+
+I completed Vim Master 100%.
+
+
+
+!\[Vim Master Profile](vim\_master\_profile.png)
+
+
+
+\### Progress Code:VIM\_MASTER\_PROGRESS\_eyJ2ZXJzaW9uIjoiMS4wIiwidGl0ZXN0YW1wIjoxNzk0MDg1MTYwMzMxLCJiYWdlcyI6WzAsImhfbGVfY2hpbGRyZW4tMSIsImxfbGVfY2hpbGRyZW4tMiJdLCJjb2RlIjoiZ2F0aW9uIiwidGltZXMiOiIxNjYxYSIsImZsYWdzIjpbXSwidGltZSI6IjUxYjYyNWY5MWNlMTE4YjY5YWMzNmZlZjRkMjRjZWIiLCJjZXN0b21faWQiOiIzX3dvcnJkZm9ybXMtMTAxIiwic3RyaW5nIjoiVjBBMGdJTXpZV05wWm1GaVJWbVhVakJrZldSRlVUTTBNR2N3YVc1d1l6bG9iM05wWldkallXWlhiR2x1Y2kxd1lYSmlhUT09IiwidXNlcl9pZCI6ImNvbjU0N2ZkYjQ4MmI0N2EwOTQ2MjkxM2Y1ZjdhNWIiLCJyb2xlcyI6W10sIm5vbmNlIjoiIn0=
+
+```VIM\_MASTER\_PROGRESS\_eyJ2ZXJzaW9uIjoiMS4wIiwidGl0ZXN0YW1wIjoxNzk0MDg1MTYwMzMxLCJiYWdlcyI6WzAsImhfbGVfY2hpbGRyZW4tMSIsImxfbGVfY2hpbGRyZW4tMiJdLCJjb2RlIjoiZ2F0aW9uIiwidGltZXMiOiIxNjYxYSIsImZsYWdzIjpbXSwidGltZSI6IjUxYjYyNWY5MWNlMTE4YjY5YWMzNmZlZjRkMjRjZWIiLCJjZXN0b21faWQiOiIzX3dvcnJkZm9ybXMtMTAxIiwic3RyaW5nIjoiVjBBMGdJTXpZV05wWm1GaVJWbVhVakJrZldSRlVUTTBNR2N3YVc1d1l6bG9iM05wWldkallXWlhiR2x1Y2kxd1lYSmlhUT09IiwidXNlcl9pZCI6ImNvbjU0N2ZkYjQ4MmI0N2EwOTQ2MjkxM2Y1ZjdhNWIiLCJyb2xlcyI6W10sIm5vbmNlIjoiIn0=
+
