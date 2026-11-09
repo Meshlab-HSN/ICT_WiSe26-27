@@ -24,7 +24,4 @@ Latitude:    51.4881
 Longitude:   13.7662
 Temperature: 3.9 °C
 ## VIM Master Progress Code
-This script detects my location from my IP address using ipinfo.io and
-fetches the current temperature from the Open-Meteo API.
-
 VIM_MASTER_PROGRESS_eyJ2ZXJzaW9uIjoiMS4wIiwidGltZXN0YW1wIjoxNzkzOTc5MTA2Nzg5LCJiYWRnZXMiOlsiYmVnaW5uZXIiLCJzZWFyY2htYXN0ZXIiXSwicHJhY3RpY2VkQ29tbWFuZHMiOlsid193b3JkX2ZvcndhcmQiLCJqX2Rvd24iLCJsX3JpZ2h0Iiwic2VhcmNoX2ZvcndhcmQiLCJzZWFyY2hfbmV4dCIsInNlYXJjaF9iYWNrd2FyZCIsInNlYXJjaF9wcmV2aW91cyIsImhfbGVmdCIsImJfd29yZF9iYWNrd2FyZCJdLCJjdXJyZW50TGV2ZWwiOjE3LCJjaGFsbGVuZ2VNb2RlIjpmYWxzZSwiY2hhbGxlbmdlUG9pbnRzIjowLCJ4cCI6MCwiY29tYm8iOjB9
