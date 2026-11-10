@@ -1,0 +1,17 @@
+# Lecture 4 - Local weather report
+
+## Script output
+
+```
+Location:    Lauchhammer, DE (51.4881, 13.7662)
+Temperature: 3.8°C
+```
+
+## Vim Master Progress Code
+
+VIM_MASTER_PROGRESS_eyJ2ZXJzaW9uIjoiMS4wIiwidGltZXN0YW1wIjoxNzk0MzExNzI4Mjk4LCJiYWRnZXMiOlsiYmVnaW5uZXIiLCJzZWFyY2htYXN0ZXIiLCJ2aXN1YWwtbWFzdGVyIl0sInByYWN0aWNlZENvbW1hbmRzIjpbInFxX3N0YXJ0X21hY3JvIiwicV9zdG9wX21hY3JvIiwid193b3JkX2ZvcndhcmQiLCJoX2xlZnQiLCJqX2Rvd24iLCJrX3VwIiwibF9yaWdodCIsImJfd29yZF9iYWNrd2FyZCIsIm9fb3Blbl9saW5lX2JlbG93Iiwic2VhcmNoX2ZvcndhcmQiLCJzZWFyY2hfbmV4dCIsInNlYXJjaF9iYWNrd2FyZCIsInNlYXJjaF9wcmV2aW91cyIsInZfdmlzdWFsX21vZGUiLCJWX3Zpc3VhbF9saW5lX21vZGUiLCJmX2ZpbmRfY2hhcmFjdGVyIiwidF90aWxsX2NoYXJhY3RlciIsIlRfdGlsbF9jaGFyYWN0ZXIiLCJjdHJsX3ZfdmlzdWFsX2Jsb2NrX21vZGUiLCJkaXdvcmQiLCJpX2luc2VydF9tb2RlIiwibW1fc2V0X21hcmsiLCJkaXBhcmVudGhlc2VzIl0sImN1cnJlbnRMZXZlbCI6MjAsImNoYWxsZW5nZU1vZGUiOmZhbHNlLCJjaGFsbGVuZ2VQb2ludHMiOjB9
+
+## Notes
+
+This is my first shell script. I learned Shell, Vim and Git in Lecture 4.
+I completed 21 levels in Vim Master (screenshot: vimmaster.png).
