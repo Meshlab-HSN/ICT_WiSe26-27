@@ -1,3 +1,5 @@
 Location: Lauchhammer, Germany (51.4865, 13.7615)
 Current temperature: 3.1 °C
 Vim master Progress Code: VIM_MASTER_PROGRESS_eyJ2ZXJzaW9uIjoiMS4wIiwidGltZXN0YW1wIjoxNzk0MzI1MjMzNjkwLCJiYWRnZXMiOlsiYmVnaW5uZXIiLCJzZWFyY2htYXN0ZXIiXSwicHJhY3RpY2VkQ29tbWFuZHMiOlsial9kb3duIiwibF9yaWdodCIsIndfd29yZF9mb3J3YXJkIiwiaF9sZWZ0Iiwic2VhcmNoX2ZvcndhcmQiLCJzZWFyY2hfbmV4dCIsInNlYXJjaF9iYWNrd2FyZCIsInNlYXJjaF9wcmV2aW91cyJdLCJjdXJyZW50TGV2ZWwiOjE3LCJjaGFsbGVuZ2VNb2RlIjpmYWxzZSwiY2hhbGxlbmdlUG9pbnRzIjowLCJ4cCI6MCwiY29tYm8iOjB9
+
+This script detects the approximate location from the public IP address using ip-api.com and requests the current temperature for those coordinates from Open-Meteo, using only curl and jq. The file vimmaster.png shows the Vim Master profile with the progress code above.
