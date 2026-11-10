@@ -1,0 +1,7 @@
+Location: Leipzig (51.3671, 12.3817)
+Current temperature:  °C
+Vim Master progress code: VIM_MASTER_PROGRESS_eyJ2ZXJzaW9uIjoiMS4wIiwidGltZXN0YW1wIjoxNzk0MzM2OTMzODYwLCJiYWRnZXMiOlsiYmVnaW5uZXIiLCJzZWFyY2htYXN0ZXIiXSwicHJhY3RpY2VkQ29tbWFuZHMiOlsial9kb3duIiwiaV9pbnNlcnRfbW9kZSIsImxfcmlnaHQiLCJ3X3dvcmRfZm9yd2FyZCIsInNlYXJjaF9mb3J3YXJkIiwia191cCIsInNlYXJjaF9uZXh0Iiwic2VhcmNoX2JhY2t3YXJkIiwic2VhcmNoX3ByZXZpb3VzIl0sImN1cnJlbnRMZXZlbCI6MTcsImNoYWxsZW5nZU1vZGUiOmZhbHNlLCJjaGFsbGVuZ2VQb2ludHMiOjAsInhwIjowLCJjb21ibyI6MH0=
+
+This script detects my location 
+from my public IP using ip-api.com and fetches the current temperature from Open
+Meteo, using only curl and jq.
