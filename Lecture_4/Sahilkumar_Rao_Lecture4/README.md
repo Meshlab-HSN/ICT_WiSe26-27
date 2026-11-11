@@ -1,0 +1,26 @@
+location: [39m{
+  [96m"status"[39m       : [92m"success"[39m,
+  [96m"continent"[39m    : [92m"Europe"[39m,
+  [96m"continentCode"[39m: [92m"EU"[39m,
+  [96m"country"[39m      : [92m"Germany"[39m,
+  [96m"countryCode"[39m  : [92m"DE"[39m,
+  [96m"region"[39m       : [92m"BY"[39m,
+  [96m"regionName"[39m   : [92m"Bavaria"[39m,
+  [96m"city"[39m         : [92m"Munich"[39m,
+  [96m"district"[39m     : [92m""[39m,
+  [96m"zip"[39m          : [92m"80801"[39m,
+  [96m"lat"[39m          : [95m48.1475[39m,
+  [96m"lon"[39m          : [95m11.5865[39m,
+  [96m"timezone"[39m     : [92m"Europe/Berlin"[39m,
+  [96m"offset"[39m       : [95m3600[39m,
+  [96m"currency"[39m     : [92m"EUR"[39m,
+  [96m"isp"[39m          : [92m"Vodafone GmbH"[39m,
+  [96m"org"[39m          : [92m"ARCOR-IP"[39m,
+  [96m"as"[39m           : [92m"AS3209 Vodafone GmbH"[39m,
+  [96m"asname"[39m       : [92m"VODANET"[39m,
+  [96m"mobile"[39m       : [94mfalse[39m,
+  [96m"proxy"[39m        : [94mfalse[39m,
+  [96m"hosting"[39m      : [94mfalse[39m,
+  [96m"query"[39m        : [92m"92.209.4.210"[39m
+}
+Current Temperature: 
