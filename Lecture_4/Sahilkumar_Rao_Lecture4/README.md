@@ -1,6 +1,6 @@
 # Lecture 4- Weather Script
 
-##Script output
+## Script output
 
 Location: Munich
 
