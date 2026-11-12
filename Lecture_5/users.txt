@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
+pollinate:x:102:1::/var/cache/pollinate:/bin/false
+tss:x:106:108:TPM software stack,,,:/var/lib/tpm:/bin/false
+jarvis:x:1000:1000:jarvis:/home/jarvis:/bin/bash
