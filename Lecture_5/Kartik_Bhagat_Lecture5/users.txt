@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:997:997:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+vboxuser:x:1000:1000:vboxuser:/home/vboxuser:/bin/bash
+kartikbhagat:x:1001:1001:Kartik Bhagat:/home/kartikbhagat:/bin/bash
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
