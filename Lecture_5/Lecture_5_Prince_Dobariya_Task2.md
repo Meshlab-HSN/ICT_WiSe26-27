@@ -38,7 +38,7 @@ prince      4540  0.0  0.2  10892  4588 tty4     R+   20:28   0:00 ps aux
 prince      4541  0.0  0.1   6680  2332 tty4     S+   20:28   0:00 grep --color=auto -Ev ^root[[:space:]]
 
 ## Task 2.4 - Exclude kworker and irq
-Command: ps aux | grep -Ev '^kworker|irq'
+Command: ps aux | grep -Ev 'kworker|irq'
 Output:
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root           1  0.0  0.6  22572 13664 ?        Ss   05:41   0:01 /sbin/init splash noprompt noshell automatic-ubiquity
