@@ -1,0 +1,8 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:997:997:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+ronak7463:x:1000:1000:Ronak panchal:/home/ronak7463:/bin/bash
+whoopsie:x:104:109::/nonexistent:/bin/false
+speech-dispatcher:x:107:29:Speech Dispatcher:/run/speech-dispatcher:/bin/false
+hplip:x:112:7:HPLIP system user:/run/hplip:/bin/false
+gdm:x:974:974:Gnome Display Manager:/var/lib/gdm3:/bin/false
