@@ -1,0 +1,30 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ROOT           1  0.2  0.1  24324 15324 ?        Ss   20:07   0:00 /sbin/init
+ROOT           2  0.0  0.0   3820  2524 hvc0     Sl+  20:07   0:00 /init
+ROOT           3  0.0  0.0   3680  2220 hvc0     S+   20:07   0:00 init-watcher
+ROOT           7  0.0  0.0   3820  2296 hvc0     Sl+  20:07   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+ROOT          44  0.0  0.2  42456 17900 ?        S<s  20:07   0:00 /usr/lib/systemd/systemd-journald
+systemd+      79  0.0  0.1  22416 14464 ?        Ss   20:07   0:00 /usr/lib/systemd/systemd-resolved
+ROOT          85  0.0  0.1  34872 12180 ?        Ss   20:07   0:00 /usr/lib/systemd/systemd-udevd
+ROOT         106  0.0  0.0   2888  1948 ?        Ss   20:07   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+ROOT         107  0.0  0.0   4472  3088 ?        Ss   20:07   0:00 /usr/sbin/cron -f -P
+message+     108  0.0  0.0   8820  5492 ?        Ss   20:07   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+ROOT         146  0.1  0.3  44096 29856 ?        Ss   20:07   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+ROOT         168  0.0  0.1  18564  9456 ?        Ss   20:07   0:00 /usr/lib/systemd/systemd-logind
+ROOT         175  0.0  0.1 1866288 11164 ?       Ssl  20:07   0:00 /usr/libexec/wsl-pro-service
+syslog       191  0.0  0.0 220548  5956 ?        Ssl  20:07   0:00 /usr/sbin/rsyslogd -n -iNONE
+ROOT         218  0.0  0.0   5492  2772 tty1     Ss+  20:07   0:00 /usr/sbin/agetty --noreset --noclear --issue-file=/etc/issue:/etc/issue.d:/run/issue.d:/usr/lib/issue.d - linux
+ROOT         225  0.0  0.4 123464 32732 ?        Ssl  20:07   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+_chrony      229  0.0  0.1  23600 11224 ?        S    20:07   0:00 /usr/sbin/chronyd -n -F 1 -x
+_chrony      260  0.0  0.0  12096  2452 ?        S    20:07   0:00 /usr/sbin/chronyd -n -F 1 -x
+ROOT         394  0.0  0.0   3828  1492 ?        Ss   20:07   0:00 /init
+ROOT         395  0.0  0.0   3896  1560 ?        S    20:07   0:00 /init
+vaishna+     396  0.0  0.0   6268  5536 pts/0    Ss   20:07   0:00 -bash
+ROOT         397  0.0  0.0   8648  5596 ?        Ss   20:07   0:00 login -- vaishnavink
+vaishna+     440  0.0  0.1  22352 13420 ?        Ss   20:07   0:00 /usr/lib/systemd/systemd --user
+vaishna+     444  0.0  0.0  22924  4124 ?        S    20:07   0:00 (sd-pam)
+vaishna+     470  0.0  0.0   6136  5480 pts/1    Ss+  20:07   0:00 -bash
+ROOT         623  0.0  0.0  34876  6288 ?        S    20:10   0:00 (udev-worker)
+ROOT         624  0.0  0.0  34876  6288 ?        S    20:10   0:00 (udev-worker)
+vaishna+     630  0.0  0.0   7160  4364 pts/0    R+   20:10   0:00 ps aux
+28 processes are running
