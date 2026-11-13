@@ -15,10 +15,10 @@ This command searches the process list for my Ubuntu username.
 Command:
 
 ```bash
-ps aux | grep -E '^roshan_karkar[[:space:]]'
+ps aux | grep -E '^roshan_karkar\+[[:space:]]'
 ```
 
-This command matches my username at the beginning of the user field.
+This command uses a regular expression to match my truncated username, roshan_+, at the beginning of the user field.
 
 ## Task 2.3 - Show all processes except root
 
