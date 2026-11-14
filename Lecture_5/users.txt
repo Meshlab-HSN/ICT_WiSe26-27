@@ -1,0 +1,13 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
+tss:x:106:108:TPM software stack,,,:/var/lib/tpm:/bin/false
+nafas:x:1000:1000:nafas:/home/nafas:/bin/bash
+newadmin:x:1001:1001:,,,:/home/newadmin:/bin/bash
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
+whoopsie:x:102:112::/nonexistent:/bin/false
+speech-dispatcher:x:111:29:Speech Dispatcher:/run/speech-dispatcher:/bin/false
+hplip:x:116:7:HPLIP system user:/run/hplip:/bin/false
+gdm:x:977:977:Gnome Display Manager:/var/lib/gdm3:/bin/false
+user1:x:1002:1002:Fatemeh Sharbatian,1,09355310200,:/home/user1:/bin/bash
+lightdm:x:118:120:Light Display Manager:/var/lib/lightdm:/bin/false
