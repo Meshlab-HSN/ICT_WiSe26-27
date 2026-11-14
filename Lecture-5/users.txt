@@ -1,0 +1,5 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:997:997:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+pollinate:x:100:1::/var/cache/pollinate:/bin/false
+mah:x:1000:1000:Mahsa:/home/mah:/bin/bash
