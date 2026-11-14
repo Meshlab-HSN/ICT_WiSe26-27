@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:997:997:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+pollinate:x:101:1::/var/cache/pollinate:/bin/false
+muhammad-haseeb:x:1000:1000:muhammad-haseeb:/home/muhammad-haseeb:/bin/bash
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
