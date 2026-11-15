@@ -22,7 +22,7 @@ tejaram+   2562  0.0  0.0  6716 2668 tty1 S+  13:41  0:00 grep --color=auto teja
 
 Command:
 
-ps -eo user:32,pid,%cpu,%mem,tty,stat,start,time,cmd | grep -E '^tejaram-kolamgani\[\[:space:]]'
+ps -eo user:32,pid,%cpu,%mem,tty,stat,start,time,cmd | grep -E '^tejaram-kolamgani[[:space:]]'
 
 Explanation:
 
