@@ -1,0 +1,143 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ROOT           1  0.3  0.4  25516 16460 ?        Ss   16:32   0:03 /usr/lib/systemd/systemd --switched-ROOT --system --deserialize=55
+ROOT           2  0.0  0.0      0     0 ?        S    16:32   0:00 [kthreadd]
+ROOT           3  0.0  0.0      0     0 ?        S    16:32   0:00 [pool_workqueue_release]
+ROOT           4  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-rcu_gp]
+ROOT           5  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-sync_wq]
+ROOT           6  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kvfree_rcu_reclaim]
+ROOT           7  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-slub_flushwq]
+ROOT           8  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-netns]
+ROOT           9  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/0:0-cgroup_free]
+ROOT          10  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/0:0H-kblockd]
+ROOT          11  0.6  0.0      0     0 ?        I    16:32   0:07 [kworker/0:1-events]
+ROOT          12  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u16:0-ipv6_addrconf]
+ROOT          13  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-mm_percpu_wq]
+ROOT          14  0.0  0.0      0     0 ?        S    16:32   0:00 [ksoftirqd/0]
+ROOT          15  0.0  0.0      0     0 ?        I    16:32   0:00 [rcu_preempt]
+ROOT          16  0.0  0.0      0     0 ?        S    16:32   0:00 [rcu_exp_par_gp_kthread_worker/0]
+ROOT          17  0.0  0.0      0     0 ?        S    16:32   0:00 [rcu_exp_gp_kthread_worker]
+ROOT          18  0.0  0.0      0     0 ?        S    16:32   0:00 [migration/0]
+ROOT          19  0.0  0.0      0     0 ?        S    16:32   0:00 [kprobe-optimizer]
+ROOT          20  0.0  0.0      0     0 ?        S    16:32   0:00 [idle_inject/0]
+ROOT          21  0.0  0.0      0     0 ?        S    16:32   0:00 [cpuhp/0]
+ROOT          22  0.0  0.0      0     0 ?        S    16:32   0:00 [cpuhp/1]
+ROOT          23  0.0  0.0      0     0 ?        S    16:32   0:00 [idle_inject/1]
+ROOT          24  0.0  0.0      0     0 ?        S    16:32   0:00 [migration/1]
+ROOT          25  0.0  0.0      0     0 ?        S    16:32   0:00 [ksoftirqd/1]
+ROOT          27  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/1:0H-kblockd]
+ROOT          28  0.0  0.0      0     0 ?        S    16:32   0:00 [cpuhp/2]
+ROOT          29  0.0  0.0      0     0 ?        S    16:32   0:00 [idle_inject/2]
+ROOT          30  0.0  0.0      0     0 ?        S    16:32   0:00 [migration/2]
+ROOT          31  0.0  0.0      0     0 ?        S    16:32   0:00 [ksoftirqd/2]
+ROOT          32  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/2:0-events]
+ROOT          33  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/2:0H-kblockd]
+ROOT          34  0.0  0.0      0     0 ?        S    16:32   0:00 [cpuhp/3]
+ROOT          35  0.0  0.0      0     0 ?        S    16:32   0:00 [idle_inject/3]
+ROOT          36  0.0  0.0      0     0 ?        S    16:32   0:00 [migration/3]
+ROOT          37  0.0  0.0      0     0 ?        S    16:32   0:00 [ksoftirqd/3]
+ROOT          39  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/3:0H-kblockd]
+ROOT          41  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u18:0-events_power_efficient]
+ROOT          42  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u19:0-events_power_efficient]
+ROOT          43  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u20:0-events_unbound]
+ROOT          44  0.0  0.0      0     0 ?        S    16:32   0:00 [kdevtmpfs]
+ROOT          45  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-inet_frag_wq]
+ROOT          46  0.0  0.0      0     0 ?        I    16:32   0:00 [rcu_tasks_kthread]
+ROOT          47  0.0  0.0      0     0 ?        I    16:32   0:00 [rcu_tasks_rude_kthread]
+ROOT          48  0.0  0.0      0     0 ?        S    16:32   0:00 [kauditd]
+ROOT          49  0.0  0.0      0     0 ?        S    16:32   0:00 [khungtaskd]
+ROOT          50  0.0  0.0      0     0 ?        S    16:32   0:00 [oom_reaper]
+ROOT          51  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u17:1-events_power_efficient]
+ROOT          52  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-writeback]
+ROOT          53  0.0  0.0      0     0 ?        S    16:32   0:00 [kcompactd0]
+ROOT          54  0.0  0.0      0     0 ?        SN   16:32   0:00 [ksmd]
+ROOT          55  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u17:2-events_power_efficient]
+ROOT          56  0.0  0.0      0     0 ?        SN   16:32   0:00 [khugepaged]
+ROOT          57  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kblockd]
+ROOT          58  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-blkcg_punt_bio]
+ROOT          59  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kintegrityd]
+ROOT          60  0.0  0.0      0     0 ?        S    16:32   0:00 [irq/9-acpi]
+ROOT          62  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-tpm_dev_wq]
+ROOT          63  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-ata_sff]
+ROOT          64  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-md_bitmap]
+ROOT          65  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-md_llbitmap_io]
+ROOT          66  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-md_llbitmap_unplug]
+ROOT          67  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-edac-poller]
+ROOT          68  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-devfreq_wq]
+ROOT          69  0.0  0.0      0     0 ?        S    16:32   0:00 [watchdogd]
+ROOT          71  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-quota_events_unbound]
+ROOT          72  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/1:1-events]
+ROOT          73  0.0  0.0      0     0 ?        S    16:32   0:00 [kswapd0]
+ROOT          74  0.0  0.0      0     0 ?        S    16:32   0:00 [ecryptfs-kthread]
+ROOT          75  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kthrotld]
+ROOT          76  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-acpi_thermal_pm]
+ROOT          77  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u20:1-events_power_efficient]
+ROOT          79  0.0  0.0      0     0 ?        S    16:32   0:00 [scsi_eh_0]
+ROOT          80  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-scsi_tmf_0]
+ROOT          81  0.0  0.0      0     0 ?        S    16:32   0:00 [scsi_eh_1]
+ROOT          82  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-scsi_tmf_1]
+ROOT          83  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u20:2-events_power_efficient]
+ROOT          87  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-mld]
+ROOT          88  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-ipv6_addrconf]
+ROOT          89  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u16:1-ipv6_addrconf]
+ROOT          90  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kstrp]
+ROOT          92  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/2:1H]
+ROOT          93  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/3:2-ata_sff]
+ROOT          94  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/u21:0]
+ROOT          95  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/u22:0]
+ROOT          96  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/u23:0]
+ROOT          97  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/u24:0]
+ROOT          98  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/u25:0]
+ROOT         100  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/0:1H-kblockd]
+ROOT         110  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-charger_manager]
+ROOT         111  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/3:3-mm_percpu_wq]
+ROOT         149  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u18:2-events_unbound]
+ROOT         331  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/2:2-events]
+ROOT         351  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/1:1H-kblockd]
+ROOT         352  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/3:1H-kblockd]
+ROOT         354  0.0  0.0      0     0 ?        S    16:32   0:00 [scsi_eh_2]
+ROOT         355  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-scsi_tmf_2]
+ROOT         404  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u19:2-events_power_efficient]
+ROOT         432  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kdmflush/252:0]
+ROOT         471  0.0  0.0      0     0 ?        S    16:32   0:00 [jbd2/dm-0-8]
+ROOT         472  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-ext4-rsv-conversion]
+ROOT         567  0.0  0.0      0     0 ?        S    16:32   0:00 [psimon]
+ROOT         573  0.0  0.4  50404 16736 ?        S<s  16:32   0:00 /usr/lib/systemd/systemd-journald
+ROOT         584  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kmpathd]
+ROOT         585  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-kmpath_handlerd]
+ROOT         591  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u19:3-events_power_efficient]
+ROOT         607  0.0  0.2 279492  9644 ?        SLsl 16:32   0:00 /usr/sbin/multipathd -d -s
+systemd+     624  0.0  0.4  22624 14628 ?        Ss   16:32   0:00 /usr/lib/systemd/systemd-resolved
+ROOT         631  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u17:3-events_power_efficient]
+ROOT         634  0.0  0.4  39572 13624 ?        Ss   16:32   0:00 /usr/lib/systemd/systemd-udevd
+ROOT         636  0.0  0.0      0     0 ?        S    16:32   0:00 [psimon]
+ROOT         716  0.0  0.0      0     0 ?        S    16:32   0:00 [irq/18-vmwgfx]
+ROOT         717  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-ttm]
+ROOT         721  0.0  0.0      0     0 ?        S    16:32   0:00 [jbd2/sda2-8]
+ROOT         722  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-ext4-rsv-conversion]
+systemd+    1035  0.0  0.3  21376 12280 ?        Ss   16:32   0:00 /usr/lib/systemd/systemd-networkd
+ROOT        1038  0.0  0.0      0     0 ?        I    16:32   0:00 [kworker/u18:3-events_unbound]
+ROOT        1062  0.0  0.0   2888  2008 ?        Ss   16:32   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+message+    1063  0.0  0.1   9000  5628 ?        Ss   16:32   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+ROOT        1068  0.0  0.0      0     0 ?        I<   16:32   0:00 [kworker/R-cfg80211]
+ROOT        1075  0.0  0.8  46744 30052 ?        Ss   16:32   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+polkitd     1077  0.0  0.2 306448  8436 ?        Ssl  16:32   0:00 /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+ROOT        1086  0.0  0.2  18564  9668 ?        Ss   16:32   0:00 /usr/lib/systemd/systemd-logind
+ROOT        1088  0.0  0.4 543360 15132 ?        Ssl  16:32   0:00 /usr/libexec/udisks2/udisksd
+ROOT        1150  0.0  0.9 126112 32852 ?        Ssl  16:32   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+syslog      1153  0.0  0.1 220548  5888 ?        Ssl  16:32   0:00 /usr/sbin/rsyslogd -n -iNONE
+_chrony     1157  0.0  0.3  23872 11288 ?        S    16:32   0:00 /usr/sbin/chronyd -n -F 1
+_chrony     1160  0.0  0.0  12096  2464 ?        S    16:32   0:00 /usr/sbin/chronyd -n -F 1
+ROOT        1165  0.0  0.0   7060  3352 ?        Ss   16:32   0:00 /usr/sbin/cron -f -P
+ROOT        1194  0.0  0.4 391608 13976 ?        Ssl  16:32   0:00 /usr/sbin/ModemManager
+ROOT        1203  0.0  0.2  10744  7736 ?        Ss   16:32   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+ROOT        1218  0.0  0.1   8760  5612 ?        Ss   16:32   0:00 login -- sara-abbarin
+sara-ab+    1425  0.0  0.3  22024 12712 ?        Ss   16:34   0:00 /usr/lib/systemd/systemd --user
+sara-ab+    1432  0.0  0.1  23012  4132 ?        S    16:34   0:00 (sd-pam)
+sara-ab+    1451  0.0  0.1   8856  5828 tty1     Ss+  16:34   0:00 -bash
+ROOT        1472  0.0  0.3  18264 12124 ?        Ss   16:36   0:00 sshd-session: sara-abbarin [priv]
+sara-ab+    1530  0.1  0.2  18560  7684 ?        S    16:36   0:00 sshd-session: sara-abbarin@pts/0
+sara-ab+    1531  0.0  0.1   8844  5888 pts/0    Ss   16:36   0:00 -bash
+ROOT        1599  0.0  0.0      0     0 ?        I    16:40   0:00 [kworker/1:0-events]
+ROOT        1672  0.8  0.0      0     0 ?        I    16:47   0:01 [kworker/0:2-events]
+sara-ab+    1706  0.0  0.1   9764  4704 pts/0    R+   16:50   0:00 ps aux
+141 processes are running
