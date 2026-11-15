@@ -22,29 +22,24 @@ tejaram+   2562  0.0  0.0  6716 2668 tty1 S+  13:41  0:00 grep --color=auto teja
 
 Command:
 
-ps -eo user:32,pid,%cpu,%mem,tty,stat,start,time,cmd | grep -E '^tejaram-kolamgani[[:space:]]'
-
+ps -eo user:32,pid,%cpu,%mem,tty,stat,start,time,cmd | grep -E '^[t]ejaram-kolamgani[[:space:]]' | grep -v '[g]rep'
 Explanation:
 
 This command uses a regular expression to match only processes whose user field begins with my username, avoiding false positives.
 
 Console Output:
 
-tejaram-kolamgani  1408  0.0  0.1  8764 5616 ?    Ss   11:30  0:00 login -- tejaram-kolamgani
+tejaram-kolamgani  1408  0.0  0.3  ?    Ss   11:30:19  0:00:00 /usr/lib/systemd/systemd --user
 
-tejaram-kolamgani  1414  0.0  0.0  6716 2676 tty1 S+  13:12  0:00 grep --color=auto tejaram-kolamgani
+tejaram-kolamgani  1414  0.0  0.1  ?    S    11:30:19  0:00:00 (sd-pam)
 
-tejaram-kolamgani  1434  0.0  0.0  6716 2676 tty1 S+  13:12  0:00 grep --color=auto tejaram-kolamgani
-
-tejaram-kolamgani  2604  0.0  0.0  6716 2676 tty1 S+  13:12  0:00 grep --color=auto tejaram-kolamgani
-
-tejaram-kolamgani  2605  0.0  0.0  6716 2676 tty1 S+  13:12  0:00 grep --color=auto tejaram-kolamgani
+tejaram-kolamgani  1434  0.0  0.1  tty1 Ss   11:30:20  0:00:00 -bash
 
 3. List all processes except those running as root
 
 Command:
 
-ps aux | grep -v -E '^(root|ROOT)\[\[:space:]]'
+ps aux | grep -v -E '^(root|ROOT)[[:space:]]' | grep -v '[g]rep'
 
 Explanation:
 
@@ -70,7 +65,7 @@ tejaram+  2474  0.0  0.0   6716  2680 tty1  S+   13:24 0:00 grep --color=auto -v
 
 Command:
 
-ps aux | grep -Ev '\[k]worker|\[i]rq'
+ps aux | grep -Ev '[k]worker|[i]rq'
 
 Explanation:
 
