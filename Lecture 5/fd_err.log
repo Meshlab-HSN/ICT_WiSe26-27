@@ -1,0 +1,37 @@
+ls: cannot access '/proc/1490/fd/3': No such file or directory
+ls: cannot access '/proc/980/fd/0': Permission denied
+ls: cannot access '/proc/980/fd/1': Permission denied
+ls: cannot access '/proc/980/fd/10': Permission denied
+ls: cannot access '/proc/980/fd/11': Permission denied
+ls: cannot access '/proc/980/fd/12': Permission denied
+ls: cannot access '/proc/980/fd/13': Permission denied
+ls: cannot access '/proc/980/fd/14': Permission denied
+ls: cannot access '/proc/980/fd/15': Permission denied
+ls: cannot access '/proc/980/fd/16': Permission denied
+ls: cannot access '/proc/980/fd/17': Permission denied
+ls: cannot access '/proc/980/fd/18': Permission denied
+ls: cannot access '/proc/980/fd/19': Permission denied
+ls: cannot access '/proc/980/fd/2': Permission denied
+ls: cannot access '/proc/980/fd/20': Permission denied
+ls: cannot access '/proc/980/fd/21': Permission denied
+ls: cannot access '/proc/980/fd/22': Permission denied
+ls: cannot access '/proc/980/fd/23': Permission denied
+ls: cannot access '/proc/980/fd/28': Permission denied
+ls: cannot access '/proc/980/fd/29': Permission denied
+ls: cannot access '/proc/980/fd/3': Permission denied
+ls: cannot access '/proc/980/fd/30': Permission denied
+ls: cannot access '/proc/980/fd/31': Permission denied
+ls: cannot access '/proc/980/fd/32': Permission denied
+ls: cannot access '/proc/980/fd/35': Permission denied
+ls: cannot access '/proc/980/fd/36': Permission denied
+ls: cannot access '/proc/980/fd/37': Permission denied
+ls: cannot access '/proc/980/fd/38': Permission denied
+ls: cannot access '/proc/980/fd/4': Permission denied
+ls: cannot access '/proc/980/fd/5': Permission denied
+ls: cannot access '/proc/980/fd/6': Permission denied
+ls: cannot access '/proc/980/fd/7': Permission denied
+ls: cannot access '/proc/980/fd/9': Permission denied
+ls: cannot access '/proc/self/fd/255': No such file or directory
+ls: cannot access '/proc/self/fd/3': No such file or directory
+ls: cannot access '/proc/thread-self/fd/255': No such file or directory
+ls: cannot access '/proc/thread-self/fd/3': No such file or directory
