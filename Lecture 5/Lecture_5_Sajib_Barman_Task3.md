@@ -38,10 +38,13 @@ sajib-barman:x:1001:1001:Sajib Barman,,,:/home/sajib-barman:/bin/bash
 ```
 
 ## 3. Print all users with UID and GID using awk
+
 Command:
 ```bash
-awk -F: '{printf "User %s has UID %s and GID %s.\\n", $1, $3, $4}' /etc/passwd
+awk -F: '{printf "User %s has UID %s and GID %s.
+", $1, $3, $4}' /etc/passwd
 ```
+
 Output:
 ```text
 User root has UID 0 and GID 0.
@@ -81,11 +84,14 @@ User sajib-barman has UID 1001 and GID 1001.
 User sshd has UID 109 and GID 65534.
 ```
 
+
 ## 4. Print username and process name using awk
+
 Command:
 ```bash
-awk 'NR > 1 && $1 !~ /^[0-9]+$/ {print $1, $11}' processes.log
+awk 'NR > 1 { cmd=$11; for (i=12; i<=NF; i++) cmd=cmd " " $i; print $1, cmd }' processes.log
 ```
+
 Output:
 ```text
 ROOT /sbin/init
@@ -157,27 +163,27 @@ ROOT [kworker/R-ext4-]
 ROOT /usr/lib/systemd/systemd-journald
 ROOT [kworker/R-kmpat]
 ROOT [kworker/R-kmpat]
-ROOT /sbin/multipathd
+ROOT /sbin/multipathd -d -s
 ROOT /usr/lib/systemd/systemd-udevd
 systemd+ /usr/lib/systemd/systemd-resolved
 systemd+ /usr/lib/systemd/systemd-timesyncd
 ROOT [psimon]
 systemd+ /usr/lib/systemd/systemd-networkd
 ROOT [kworker/R-cfg80]
-message+ @dbus-daemon
-polkitd /usr/lib/polkit-1/polkitd
+message+ @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+polkitd /usr/lib/polkit-1/polkitd --no-debug
 ROOT /usr/lib/systemd/systemd-logind
 ROOT /usr/libexec/udisks2/udisksd
-syslog /usr/sbin/rsyslogd
-ROOT /usr/bin/python3
+syslog /usr/sbin/rsyslogd -n -iNONE
+ROOT /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
 ROOT /usr/sbin/ModemManager
 ROOT [irq/18-vmwgfx]
-ROOT /usr/sbin/cron
+ROOT /usr/sbin/cron -f -P
 ROOT [kworker/R-ttm]
-ROOT sshd:
-ROOT /bin/login
+ROOT sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+ROOT /bin/login -p --
 ROOT [psimon]
-sajib-b+ /usr/lib/systemd/systemd
+sajib-b+ /usr/lib/systemd/systemd --user
 sajib-b+ (sd-pam)
 sajib-b+ -bash
 ROOT [kworker/R-tls-s]
@@ -195,18 +201,23 @@ ROOT [kworker/u5:3-events_unbound]
 ROOT [kworker/1:0-events]
 ROOT [kworker/u6:2-flush-8:0]
 ROOT [kworker/0:1-events]
-ROOT sshd:
-sajib-b+ sshd:
+ROOT sshd: sajib-barman [priv]
+sajib-b+ sshd: sajib-barman@pts/0
 sajib-b+ -bash
 ROOT [kworker/u5:0-flush-8:0]
-sajib-b+ ps
+sajib-b+ ps aux
+112
 ```
 
+
 ## 5. Sum of CPU usage using awk
+
 Command:
 ```bash
-awk 'NR > 1 && $1 !~ /^[0-9]+$/ {sum += $3} END {printf "Total CPU usage: %.2f%%\\n", sum}' processes.log
+awk 'NR > 1 {sum += $3} END {printf "Total CPU usage: %.2f%%
+", sum}' processes.log
 ```
+
 Output:
 ```text
 Total CPU usage: 234.00%
