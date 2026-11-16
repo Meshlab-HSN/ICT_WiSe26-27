@@ -41,8 +41,7 @@ sajib-barman:x:1001:1001:Sajib Barman,,,:/home/sajib-barman:/bin/bash
 
 Command:
 ```bash
-awk -F: '{printf "User %s has UID %s and GID %s.
-", $1, $3, $4}' /etc/passwd
+awk -F: '{printf "User %s has UID %s and GID %s.\n", $1, $3, $4}' /etc/passwd
 ```
 
 Output:
@@ -214,8 +213,7 @@ sajib-b+ ps aux
 
 Command:
 ```bash
-awk 'NR > 1 {sum += $3} END {printf "Total CPU usage: %.2f%%
-", sum}' processes.log
+awk 'NR > 1 {sum += $3} END {printf "Total CPU usage: %.2f%%\n", sum}' processes.log
 ```
 
 Output:
