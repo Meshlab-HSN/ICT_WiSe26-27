@@ -1,0 +1,7 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
+pollinate:x:102:1::/var/cache/pollinate:/bin/false
+swarnima-:x:1000:1000:swarnima-:/home/swarnima-:/bin/bash
+whoopsie:x:110:111::/nonexistent:/bin/false
+lightdm:x:111:114:Light Display Manager:/var/lib/lightdm:/bin/false
