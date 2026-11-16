@@ -1,0 +1,7 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
+pollinate:x:102:1::/var/cache/pollinate:/bin/false
+tss:x:106:108:TPM software stack,,,:/var/lib/tpm:/bin/false
+tempadmin:x:1001:1001:smith,1,1234567890,1234567890:/home/tempadmin:/bin/bash
+smith:x:1000:1000:Smith:/home/smith:/bin/bash
