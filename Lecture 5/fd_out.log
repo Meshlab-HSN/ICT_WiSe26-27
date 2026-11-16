@@ -1,0 +1,14 @@
+/proc/1490/fd/0
+/proc/1490/fd/1
+/proc/1490/fd/2
+/proc/1490/fd/255
+/proc/992/fd/0
+/proc/992/fd/1
+/proc/992/fd/2
+/proc/992/fd/255
+/proc/self/fd/0
+/proc/self/fd/1
+/proc/self/fd/2
+/proc/thread-self/fd/0
+/proc/thread-self/fd/1
+/proc/thread-self/fd/2
