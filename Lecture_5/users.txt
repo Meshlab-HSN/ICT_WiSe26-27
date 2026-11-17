@@ -1,0 +1,9 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:997:997:DHCP Client Daemon:/usr/lib/dhcpcd:/bin/false
+vboxuser:x:1000:1000:vboxuser:/home/vboxuser:/bin/bash
+whoopsie:x:104:109::/nonexistent:/bin/false
+hplip:x:109:7:HPLIP system user:/run/hplip:/bin/false
+gdm:x:978:978:Gnome Display Manager:/var/lib/gdm3:/bin/false
+speech-dispatcher:x:111:29:Speech Dispatcher:/run/speech-dispatcher:/bin/false
+tempadmin:x:1001:1001:Sahilkumar Rao,,,:/home/tempadmin:/bin/bash
