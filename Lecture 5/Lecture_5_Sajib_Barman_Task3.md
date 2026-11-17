@@ -218,5 +218,5 @@ awk 'NR > 1 {sum += $3} END {printf "Total CPU usage: %.2f%%\n", sum}' processes
 
 Output:
 ```text
-Total CPU usage: 234.00%
-```
+Total CPU usage: 108.70%
+``
