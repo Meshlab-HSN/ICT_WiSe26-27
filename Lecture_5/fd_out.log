@@ -1,0 +1,2651 @@
+/proc/2697/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 1
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 10
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 100
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 101
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 102
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 103
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 104
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 105
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 106
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 107
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 108
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 109
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 110
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 111
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 112
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 113
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 114
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 115
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 116
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 117
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 118
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 119
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 12
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 120
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 121
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 122
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 123
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 124
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 125
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 126
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 127
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 128
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 129
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 130
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 131
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 132
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 133
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 134
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 135
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 136
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 137
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 138
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 139
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 14
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 140
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 141
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 142
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 143
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 144
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 146
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 148
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 15
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 150
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 152
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 16
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 17
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 19
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 20
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 21
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 22
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 23
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 24
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 25
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 26
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 27
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 28
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 29
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 30
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 34
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 35
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 36
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 37
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 38
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 39
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 40
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 41
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 42
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 43
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 44
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 45
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 46
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 47
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 48
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 49
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 5
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 50
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 51
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 52
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 53
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 54
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 55
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 56
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 57
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 58
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 59
+l--------- 1 vboxuser vboxuser 64 Nov 17 14:51 6
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 60
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 61
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 62
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 64
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 65
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 66
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 67
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 68
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 69
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 70
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 71
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 72
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 73
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 74
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 75
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 76
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 77
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 78
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 79
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 80
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 81
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 82
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 83
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 84
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 85
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 86
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 87
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 88
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 89
+l--------- 1 vboxuser vboxuser 64 Nov 17 14:50 9
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 90
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 91
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 92
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 93
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 94
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 95
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 96
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 97
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 98
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 99
+
+/proc/2719/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22108]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 100 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 101 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 102 -> socket:[26823]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 103 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 104 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 105 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 106 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 107 -> socket:[23166]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 108 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 109 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 110 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 111 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 112 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 113 -> socket:[33913]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 114 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 115 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 116 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 117 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 118 -> socket:[24884]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 119 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 120 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 121 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 122 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 123 -> socket:[24133]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 124 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 125 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 126 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 127 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 128 -> socket:[25832]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 129 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 13 -> socket:[25636]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 130 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 131 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 132 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 133 -> socket:[25837]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 134 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 135 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 136 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 137 -> socket:[25840]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 138 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 139 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 140 -> socket:[25841]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 141 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 142 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 143 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 144 -> socket:[26186]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 145 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 146 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 147 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 148 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 149 -> socket:[25843]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 15 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 150 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 151 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 152 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 153 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 154 -> socket:[25848]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 155 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 156 -> socket:[25849]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 157 -> socket:[25850]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 158 -> socket:[25851]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 159 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 16 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 160 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 161 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 162 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 163 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 164 -> socket:[25854]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 165 -> socket:[25856]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 166 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 167 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 168 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 169 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 17 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 170 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 171 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 172 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 173 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 174 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 175 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 176 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 177 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 178 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 179 -> socket:[24938]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 18 -> socket:[25638]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 180 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 181 -> socket:[24939]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 182 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 183 -> socket:[24940]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 184 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 185 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 186 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 187 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 188 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 189 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 19 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 190 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 191 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 192 -> socket:[26956]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 193 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 194 -> socket:[26957]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 195 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 196 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 197 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 198 -> socket:[25328]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 199 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22108]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 20 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 200 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 201 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 202 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 203 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 204 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 205 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 206 -> socket:[22434]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 207 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 208 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 209 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 21 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 210 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 211 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 212 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 213 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 214 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 215 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 216 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 217 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 218 -> socket:[22451]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 219 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 22 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 220 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 221 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 222 -> socket:[24962]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 223 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 224 -> socket:[25017]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 225 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 226 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 227 -> socket:[23303]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 228 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 229 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 23 -> socket:[25639]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 230 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 231 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 232 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 233 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 234 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 235 -> socket:[27065]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 236 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 237 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 238 -> socket:[27035]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 239 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 24 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 240 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 241 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 242 -> socket:[27037]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 243 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 244 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 245 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 246 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 247 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 248 -> socket:[27050]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 249 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 25 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 250 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 251 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 252 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 253 -> socket:[27056]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 254 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 255 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 256 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 257 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 258 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 259 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 26 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 260 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 261 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 262 -> socket:[27068]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 263 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 264 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 265 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 266 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 267 -> socket:[22492]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 268 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 269 -> socket:[22489]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 27 -> socket:[25642]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 270 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 271 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 272 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 273 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 274 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 275 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 276 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 277 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 278 -> socket:[22495]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 279 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 28 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 280 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 281 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 282 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 283 -> socket:[22498]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 284 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 285 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 286 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 287 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 288 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 289 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 29 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 290 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 291 -> socket:[25103]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 292 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 293 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 294 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 295 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 296 -> socket:[25106]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 297 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 298 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 299 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 3 -> socket:[23818]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 30 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 300 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 301 -> socket:[27094]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 302 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 303 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 304 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 305 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 306 -> socket:[27097]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 307 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 308 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 309 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 31 -> socket:[23023]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 310 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 311 -> socket:[24341]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 312 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 313 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 314 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 315 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 316 -> socket:[25191]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 317 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 318 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 319 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 32 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 320 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 321 -> socket:[25248]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 322 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 323 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 324 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 325 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 326 -> socket:[24482]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 327 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 328 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 329 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 33 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 330 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 331 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 332 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 333 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 334 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 335 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 336 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 337 -> socket:[25270]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 338 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 339 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 34 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 340 -> socket:[27797]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 341 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 342 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 343 -> socket:[28016]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 344 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 345 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 346 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 347 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 348 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 349 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 35 -> socket:[22165]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 350 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 351 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 352 -> socket:[27799]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 353 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 354 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 355 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 356 -> socket:[29069]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 357 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 358 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 359 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 36 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 360 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 361 -> socket:[26067]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 362 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 363 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 364 -> socket:[33924]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 365 -> socket:[25286]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 366 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 367 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 368 -> socket:[25287]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 369 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 37 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 370 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 371 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 372 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 373 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 374 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 375 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 376 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 377 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 378 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 379 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 38 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 380 -> socket:[29210]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 381 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 382 -> socket:[26070]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 383 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 384 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 385 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 386 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 387 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 388 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 389 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 39 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 390 -> socket:[28216]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 391 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 392 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 393 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 394 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 395 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 396 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 397 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 398 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 399 -> socket:[28235]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 40 -> socket:[24690]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 400 -> socket:[30042]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 401 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 402 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 403 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 404 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 406 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 41 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 410 -> socket:[34230]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 411 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 413 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 414 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 416 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 42 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 43 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 44 -> socket:[25700]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 45 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 46 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 47 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 48 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 49 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[22122]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 50 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 51 -> socket:[22261]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 52 -> socket:[25712]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 53 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 54 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 55 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 56 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 57 -> socket:[25736]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 58 -> socket:[22264]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 59 -> anon_inode:[pidfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 60 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 61 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 62 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 63 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 64 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 65 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 66 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 67 -> socket:[22273]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 68 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 69 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[22123]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 70 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 71 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 72 -> socket:[23154]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 73 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 74 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 75 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 76 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 77 -> socket:[23156]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 78 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 79 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[22124]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 80 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 81 -> socket:[22298]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 82 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 83 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 84 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 85 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 86 -> socket:[22303]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 87 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 88 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 89 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[22126]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 90 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 91 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 92 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 93 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 94 -> socket:[27360]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 95 -> socket:[27969]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 96 -> socket:[26819]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 97 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 98 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 99 -> socket:[27093]
+
+/proc/2720/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23873]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 12 -> socket:[22131]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 15 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 16 -> socket:[24629]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 17 -> /run/user/1000/pipewire-0.lock
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 19 -> /run/user/1000/pipewire-0-manager.lock
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23873]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 20 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 21 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 22 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 23 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 24 -> socket:[22141]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 25 -> socket:[22141]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 26 -> socket:[22141]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 27 -> socket:[23888]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 28 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 29 -> socket:[22143]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 3 -> socket:[23826]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 30 -> socket:[22143]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 31 -> socket:[22143]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 32 -> socket:[23015]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 33 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 34 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 35 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 36 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 37 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 38 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 39 -> socket:[23027]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 4 -> socket:[23827]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 40 -> socket:[27034]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 41 -> socket:[27188]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 42 -> socket:[27226]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 43 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 44 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 45 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 46 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 47 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 48 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 49 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 50 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 51 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=4096 (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 52 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 53 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 54 -> socket:[25342]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 55 -> socket:[34759]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 57 -> /dev/snd/seq
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 58 -> /dev/snd/seq
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventpoll]
+
+/proc/2722/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[19445]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[19445]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 3 -> socket:[23820]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[19447]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[25635]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[25640]
+
+/proc/2723/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24640]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24640]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 4 -> socket:[24646]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23010]
+
+/proc/2727/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23008]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 13 -> socket:[23886]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 15 -> socket:[23887]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 16 -> socket:[23014]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 17 -> socket:[25668]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 19 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23008]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 20 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 21 -> socket:[26693]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 22 -> socket:[24724]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 23 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 24 -> /dev/snd/controlC0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 25 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 26 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 27 -> socket:[24729]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 28 -> socket:[24729]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 29 -> socket:[24729]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 30 -> socket:[24731]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 31 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 32 -> socket:[24730]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 33 -> socket:[24730]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 34 -> socket:[24730]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 35 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 36 -> anon_inode:[timerfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 37 -> socket:[25706]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 38 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 39 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 40 -> /memfd:pipewire-memfd:flags=0x0000000f,type=2,size=2312 (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 41 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 42 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 43 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[22152]
+
+/proc/2730/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[26640]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[24662]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[26640]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/2732/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[26655]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[26664]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 15 -> socket:[22158]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 16 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 17 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 19 -> socket:[22164]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[26655]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 20 -> socket:[22164]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 21 -> socket:[22164]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 22 -> socket:[22167]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 23 -> socket:[25878]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 24 -> socket:[27033]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 25 -> socket:[25206]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 26 -> socket:[26003]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 27 -> socket:[36092]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 28 -> socket:[36889]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 3 -> socket:[23825]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 32 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/2763/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/tty2
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[25648]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[25650]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23022]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[23033]
+
+/proc/2788/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[25648]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[25650]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23111]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[23110]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> /run/user/1000/gnome-session-leader-fifo
+
+/proc/2897/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22256]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22256]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 3 -> socket:[23842]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+
+/proc/2898/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23997]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23997]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> /run/user/1000/gnome-session-leader-fifo
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+
+/proc/2911/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 13 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26776]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> pipe:[26777]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> pipe:[26777]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[pidfd]
+
+/proc/2917/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[26774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> /dev/fuse
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[25741]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> pipe:[26777]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> pipe:[26777]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventfd]
+
+/proc/2920/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24030]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[26924]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 12 -> socket:[24032]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24030]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26783]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[24777]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/2932/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23136]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[22277]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 100 -> socket:[24559]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 101 -> socket:[25282]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 102 -> socket:[24463]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 103 -> socket:[34112]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 104 -> socket:[25282]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 106 -> socket:[34114]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 108 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 109 -> socket:[34112]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 110 -> socket:[25283]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 112 -> socket:[25283]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 116 -> anon_inode:[timerfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 117 -> socket:[24571]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 118 -> socket:[24571]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 12 -> /dev/dri/card0
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 13 -> /dev/dri/card0
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 14 -> /dev/udmabuf
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 15 -> /memfd:lp_dma_buf (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 16 -> /dmabuf:
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 17 -> anon_inode:sync_file
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18 -> /memfd:allocation fd (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 19 -> /dev/dri/card0
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23136]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 20 -> /dev/dri/card0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 21 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 22 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 23 -> anon_inode:[timerfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 24 -> socket:[26790]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 25 -> /dev/input/event6
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 26 -> /dev/input/event5
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 27 -> /dev/input/event3
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 28 -> /dev/input/event0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 29 -> /dev/input/event1
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 30 -> /dev/input/event2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 31 -> /dev/input/event4
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 32 -> anon_inode:[timerfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 33 -> socket:[25747]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 34 -> socket:[25749]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 35 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 36 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 37 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 38 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 39 -> /memfd:mutter-anonymous-file-wayland-keymap (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 40 -> /memfd:mutter-anonymous-file-dmabuf-format-table (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 41 -> socket:[34911]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 42 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 43 -> socket:[25752]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 44 -> anon_inode:sync_file
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 45 -> /run/user/1000/wayland-0.lock
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 46 -> socket:[25754]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 47 -> socket:[25754]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 48 -> /usr/lib/x86_64-linux-gnu/libffi.so.8.2.0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 49 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24034]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 50 -> /usr/lib/udev/hwdb.bin
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 51 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 52 -> anon_inode:[timerfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 53 -> pipe:[34757]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 54 -> socket:[28979]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 55 -> anon_inode:[timerfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 56 -> socket:[28979]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 57 -> anon_inode:[timerfd]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 58 -> pipe:[34757]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 59 -> /home/vboxuser/.local/share/gnome-shell/session.gvdb
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 60 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 61 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 62 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 63 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 64 -> /memfd:pulseaudio (deleted)
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 65 -> /run/systemd/inhibit/11.ref
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 66 -> /run/systemd/inhibit/16.ref
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 67 -> /home/vboxuser/.local/share/gvfs-metadata/root (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 68 -> socket:[25125]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 69 -> /home/vboxuser/.local/share/gvfs-metadata/root-1b07b135.log (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 70 -> socket:[22468]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 71 -> socket:[26339]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 72 -> socket:[26339]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 73 -> socket:[34758]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 74 -> socket:[25125]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 75 -> socket:[28006]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 76 -> socket:[27168]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 77 -> anon_inode:[pidfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 78 -> pipe:[27170]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 79 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[24035]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 80 -> socket:[27168]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 81 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 82 -> /memfd:pulseaudio (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 83 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 84 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 85 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 86 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 87 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 88 -> socket:[25198]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 89 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[22276]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 90 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 91 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 92 -> socket:[25202]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 93 -> socket:[25205]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 94 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 95 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 96 -> socket:[27235]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 97 -> /home/vboxuser/.cache/event-sound-cache.tdb.5706e2687f21431fb45c91631f324057.x86_64-pc-linux-gnu
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 98 -> socket:[28006]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 99 -> socket:[24463]
+
+/proc/2964/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24814]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24814]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> pipe:[24816]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> pipe:[24816]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26795]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/2971/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[24814]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> pipe:[24820]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[24061]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 15 -> socket:[22302]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 16 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 17 -> socket:[24495]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 19 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[24814]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 20 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 21 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 22 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 23 -> socket:[27802]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 24 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 25 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 26 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 27 -> socket:[25293]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 28 -> socket:[29697]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 29 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 30 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 31 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 32 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 33 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 34 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 35 -> socket:[25296]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 36 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 37 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 38 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 39 -> socket:[26122]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 4 -> socket:[24057]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 40 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 41 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 42 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 43 -> socket:[33915]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 44 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 45 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 46 -> anon_inode:[pidfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:inotify
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> pipe:[24816]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> pipe:[24816]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[24059]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 9 -> socket:[24060]
+
+/proc/2973/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[24814]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[24814]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[24824]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 4 -> socket:[22301]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[24826]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+
+/proc/2991/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24839]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+
+/proc/2993/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[24836]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[24837]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26822]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+
+/proc/3007/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22331]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22331]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[26890]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+
+/proc/3010/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[23163]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[23164]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24859]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[24192]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> /usr/lib/x86_64-linux-gnu/libffi.so.8.2.0
+
+/proc/3018/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24095]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[26971]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 12 -> socket:[26978]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 13 -> socket:[27029]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 15 -> socket:[25124]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 16 -> socket:[27821]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[28238]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24095]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24182]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26963]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[pidfd]
+
+/proc/3023/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24880]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24880]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24136]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+
+/proc/3024/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25814]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25814]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[25817]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[timerfd]
+
+/proc/3027/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22347]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22347]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24137]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+
+/proc/3030/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[26849]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> /proc/3030/mountinfo
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[26849]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[25831]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventpoll]
+
+/proc/3032/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23186]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23186]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[23213]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[24201]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[22469]
+
+/proc/3042/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24901]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[22460]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> /run/systemd/inhibit/12.ref
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 13 -> socket:[25877]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 14 -> socket:[25044]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24901]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24183]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[24937]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> /run/systemd/inhibit/13.ref
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> /memfd:pulseaudio (deleted)
+
+/proc/3045/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24134]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> /run/systemd/inhibit/15.ref
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24134]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26939]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[22442]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> /run/systemd/inhibit/14.ref
+
+/proc/3048/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25835]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 12 -> socket:[26991]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25835]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[22405]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[26968]
+
+/proc/3058/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22377]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22377]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[22398]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+l-wx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> /dev/rfkill
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> /dev/rfkill
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[25883]
+
+/proc/3059/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24188]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24188]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23222]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+
+/proc/3062/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22417]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22417]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[23223]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[25868]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[27019]
+
+/proc/3068/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[26921]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[26921]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26953]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+
+/proc/3072/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22395]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22395]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26952]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+
+/proc/3075/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[23190]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[27236]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[27237]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> /run/user/1000/update-notifier.pid
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 15 -> socket:[27281]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[29714]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[23190]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[24930]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[23219]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> /memfd:wayland-cursor (deleted)
+
+/proc/3078/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[26950]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[26950]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[26955]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26979]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 9 -> socket:[25109]
+
+/proc/3080/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[23192]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[27805]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[28731]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 16 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[23192]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[25067]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[23404]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> /memfd:wayland-cursor (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventfd]
+
+/proc/3084/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24186]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24186]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23229]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26975]
+
+/proc/3091/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[24899]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[24899]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24906]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[24193]
+
+/proc/3184/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 1 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[24225]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 2 -> /dev/null
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23270]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26977]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventfd]
+
+/proc/3187/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 1 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[27243]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[27245]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 14 -> socket:[27820]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 2 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[22465]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> /memfd:wayland-cursor (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26976]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventfd]
+
+/proc/3194/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[22455]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[22456]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[26970]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[24202]
+
+/proc/3227/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[23328]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[23329]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[27030]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[27043]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> /usr/lib/x86_64-linux-gnu/libffi.so.8.2.0
+
+/proc/3229/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25005]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[24288]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> /home/vboxuser/.cache/tracker3/files/meta.db
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> /home/vboxuser/.cache/tracker3/files/meta.db-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> /home/vboxuser/.cache/tracker3/files/meta.db-shm
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> /home/vboxuser/.cache/tracker3/files/meta.db
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 15 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 16 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 17 -> /memfd:extract-persistent-storage (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 19 -> /home/vboxuser/.cache/tracker3/files/meta.db
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25005]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 25 -> /memfd:extract-persistent-storage (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[fanotify]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[24265]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/3237/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25036]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[24562]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 15 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 16 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 17 -> socket:[25335]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 18 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 19 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25036]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 20 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 21 -> socket:[25341]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 22 -> anon_inode:[timerfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 23 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 24 -> socket:[29699]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 25 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 26 -> socket:[29700]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 27 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 28 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 29 -> anon_inode:[pidfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 4 -> socket:[27049]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[26054]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26055]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/3238/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[25835]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[25835]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[27036]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[27044]
+
+/proc/3292/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25060]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> pipe:[24309]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> pipe:[25065]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> pipe:[25065]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25060]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23387]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> /dev/fuse
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[27060]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> pipe:[24309]
+
+/proc/3293/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23399]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventpoll]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> /proc/3293/mountinfo
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23399]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[27061]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[25066]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[23403]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:inotify
+
+/proc/3309/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[22485]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[27776]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[22485]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23424]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[25126]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/3318/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23420]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23420]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[22488]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+
+/proc/3324/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[27074]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[25099]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[27075]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[25897]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[24310]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 9 -> socket:[25098]
+
+/proc/3327/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25085]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25085]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[25087]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+
+/proc/3341/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[23432]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 10 -> socket:[24334]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[24335]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[23432]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[22504]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/3343/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[23430]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[23431]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[22503]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+
+/proc/3350/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[24328]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[24328]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 4 -> socket:[22505]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 6 -> socket:[24330]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+
+/proc/3358/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25913]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25913]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 4 -> socket:[25915]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 6 -> socket:[22509]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+
+/proc/3376/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:50 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 1 -> socket:[25120]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[23447]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> /home/vboxuser/.local/share/evolution/addressbook/system/contacts.db
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:50 2 -> socket:[25120]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[25122]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[27098]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:50 9 -> anon_inode:[eventfd]
+
+/proc/3388/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 1 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 2 -> /dev/null
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[23448]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[24342]
+
+/proc/3459/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 1 -> pipe:[27170]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> /memfd:wayland-cursor (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[27796]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 12 -> socket:[24494]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 13 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> /usr/lib/x86_64-linux-gnu/libffi.so.8.2.0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 15 -> anon_inode:inotify
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:51 2 -> pipe:[27170]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 20 -> /home/vboxuser/.local/share/gvfs-metadata/home
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 21 -> /home/vboxuser/.local/share/gvfs-metadata/home-6903d277.log
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 23 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 24 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 25 -> anon_inode:[timerfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 26 -> /home/vboxuser/.local/share/gvfs-metadata/root (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 28 -> /home/vboxuser/.local/share/gvfs-metadata/root-e7fbb1f5.log (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[27169]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 6 -> socket:[24401]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[25938]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventfd]
+
+/proc/3537/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[28696]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[28696]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[25247]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[25251]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> /home/vboxuser/.local/share/gvfs-metadata/root
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> /home/vboxuser/.local/share/gvfs-metadata/root-336c08d5.log
+
+/proc/3616/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[27777]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[27777]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[27779]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+
+/proc/3674/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[26774]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> /proc/3674/mountinfo
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 11 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 13 -> socket:[26009]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> socket:[26184]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 15 -> socket:[24560]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[33926]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 5 -> socket:[24488]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 7 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 8 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventpoll]
+
+/proc/3800/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 1 -> socket:[28876]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 10 -> /memfd:wayland-cursor (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 11 -> socket:[28880]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 12 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 13 -> socket:[25331]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:51 14 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 2 -> socket:[28876]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 3 -> socket:[28878]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 7 -> socket:[28879]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:51 8 -> socket:[26060]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:51 9 -> anon_inode:[eventfd]
+
+/proc/3906/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[28964]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 10 -> socket:[27357]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 13 -> /dev/udmabuf
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 14 -> /memfd:lp_dma_buf (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 15 -> /dmabuf:
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 16 -> anon_inode:sync_file
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 17 -> /memfd:allocation fd (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 18 -> socket:[27369]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 19 -> /dev/ptmx
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[28964]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[28978]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[28977]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> anon_inode:inotify
+
+/proc/3937/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[28964]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 14 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[28964]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 3 -> socket:[27358]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[29758]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> anon_inode:inotify
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> anon_inode:[eventfd]
+
+/proc/4008/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/pts/0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 1 -> /dev/pts/0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 2 -> /dev/pts/0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 255 -> /dev/pts/0
+
+/proc/4148/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[27531]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> /home/vboxuser/.local/share/nautilus/tags/meta.db
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:inotify
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> /home/vboxuser
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 13 -> anon_inode:[eventpoll]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 14 -> /proc/4148/mountinfo
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 15 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[28005]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[28007]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 18 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 19 -> socket:[33914]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[27532]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 20 -> socket:[29067]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 21 -> /home/vboxuser/.local/share/gvfs-metadata/home
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 22 -> /home/vboxuser/.local/share/gvfs-metadata/home-6903d277.log
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 23 -> /dev/udmabuf
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 24 -> /memfd:lp_dma_buf (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 25 -> /dmabuf:
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 26 -> anon_inode:sync_file
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 27 -> /memfd:allocation fd (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 28 -> socket:[28010]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 29 -> socket:[33925]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 30 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 31 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 32 -> socket:[28038]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 33 -> anon_inode:[timerfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 34 -> /home/vboxuser/.local/share/gvfs-metadata/root (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 36 -> /home/vboxuser/.local/share/gvfs-metadata/root-69622be6.log (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 38 -> socket:[26253]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 45 -> pipe:[29135]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 47 -> pipe:[29136]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[28003]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> /home/vboxuser/.local/share/nautilus/tags/meta.db
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /home/vboxuser/.local/share/nautilus/tags/meta.db-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /home/vboxuser/.local/share/nautilus/tags/meta.db-shm
+
+/proc/4188/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[26774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[26185]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> socket:[26202]
+
+/proc/4196/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[26774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[29068]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 8 -> socket:[33918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> socket:[33944]
+
+/proc/4204/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[26774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[28019]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[29070]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> socket:[33919]
+
+/proc/4210/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[26774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 10 -> socket:[29891]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 12 -> socket:[27595]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[26774]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[26199]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[29882]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> anon_inode:[pidfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> socket:[29890]
+
+/proc/4215/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[26774]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 10 -> socket:[33934]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 11 -> socket:[33936]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 12 -> socket:[33937]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 13 -> socket:[33938]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> socket:[33940]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 15 -> socket:[33941]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[26774]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> /usr/lib/x86_64-linux-gnu/libffi.so.8.2.0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[33929]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 6 -> socket:[33930]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[33931]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 8 -> socket:[33932]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> socket:[33933]
+
+/proc/4284/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:55 0 -> pipe:[29134]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:55 1 -> pipe:[29135]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:55 2 -> pipe:[29136]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:55 3 -> anon_inode:[signalfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:55 4 -> anon_inode:[eventfd]
+
+/proc/4285/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:55 0 -> pipe:[29134]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:55 1 -> pipe:[29135]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:55 2 -> pipe:[29136]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:55 4 -> anon_inode:[eventfd]
+
+/proc/4286/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> pipe:[29134]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 1 -> pipe:[29135]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 2 -> pipe:[29136]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 39 -> socket:[26254]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> anon_inode:[timerfd]
+
+/proc/4351/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[29963]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 10 -> socket:[29992]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 100 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 101 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite-wal
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 102 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 103 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 104 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/bounce-tracking-protection.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 105 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/Profile Groups/99819f1e.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 106 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/Profile Groups/99819f1e.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 107 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/Profile Groups/99819f1e.sqlite-shm
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 108 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 109 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/logins.db
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 11 -> socket:[29206]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 113 -> socket:[26565]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 115 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/AEF1D83497376B0F69530CF55291213FCF512820
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 116 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 117 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/37C8CA69B861F1CB40B8134F0E3EE87FF7EEF497
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 118 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/3612170DA62757F7C7D6AC832787F6B7D4AE02A8
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 119 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/breach-alerts.db-wal
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 12 -> socket:[29208]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 120 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/30B73D6E6E886F5989186D0799CC8E528ED716B5
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 121 -> socket:[26460]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 123 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/datareporting/glean/events/pageload
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 124 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/extensions/langpack-en-US@firefox.mozilla.org.xpi
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 125 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 126 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite-wal
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 128 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 129 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite-wal
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 13 -> socket:[29209]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 130 -> socket:[34977]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 132 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/D7B5B34E531F75A4B42E1DBC3F5B5285A2361752
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 133 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/breach-alerts.db-shm
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 134 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/domain_to_categories.sqlite
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 135 -> socket:[26540]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 136 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/breach-alerts.db
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 138 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/C6608B802B8A3C39119E796D35830056A6F43248
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 139 -> socket:[26569]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> /dev/udmabuf
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 140 -> socket:[26602]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:58 141 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 142 -> /memfd:mozilla-ipc (deleted)
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 143 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/datareporting/glean/events/newtab
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 144 -> socket:[35088]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 145 -> socket:[30315]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 146 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/44E7851A242829DE549C94D5155DEA72EFACE364
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 147 -> socket:[28585]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 148 -> socket:[26604]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 149 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/suggest.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 15 -> /memfd:lp_dma_buf (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 150 -> socket:[30320]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 151 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/suggest.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 152 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/suggest.sqlite-shm
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 153 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/suggest.sqlite
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 154 -> socket:[30350]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 155 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/suggest.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 156 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/remote-settings/quicksuggest-other.sql
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 157 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/remote-settings/quicksuggest-other.sql-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 158 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/remote-settings/quicksuggest-other.sql-shm
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 159 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/datareporting/glean/events/events
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[28196]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 160 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0F11614731B67E84A3953D5254362D91F7B61A7A
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 162 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/formhistory.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 163 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/5D01591AD6E7E7540EB23EE7B157C8FB5EB49393
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 165 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 166 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite-wal
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 167 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 168 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite-wal
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[28197]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 170 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/403A66A56A30899DBD790A5348AC5781ED3C079A
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 171 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/30A38C7E9E8C4EA9D606D6E113B11E4C31904DC8
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 173 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/F43E2FE9C3C55D4E058CE4D58513760C4B15362F
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 174 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/E187BB1B396F78A64E1EE3CAA5C884FDF57F927C
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 175 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/E15AA44C4B6806DF67EDF885A94C6055499D24A7
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 176 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/919AB19E82F958966C0521CF6A2F9A0B17BAFC03
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 177 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/775E173C45BED6F4B58D5E57F52BA395FDB34ABB
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 178 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/21734DE6FCAB2A1529603309DC56231AAC7BB587
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 179 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/841B3DDD5D992CB3055582517C91881B2C09FE91
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 18 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 180 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 181 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/497AD9205921E1BCF3A69D6327BABF3B5DC9A911
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 182 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0B34420DA9092D429EF4804B42A3E0BD8A4F921C
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 183 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/9E33AB2754689A593893963DEE725C879C9BFFDC
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 184 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/324484268FC07BA7B30F87611C2E86F3BC83397B
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 185 -> socket:[35900]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 186 -> socket:[29475]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 188 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/693A5768A25AAA6C2D4B0F415BEE2904C1C5B6D4
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 19 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 191 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/30D3053A95F555C28B8C65FE8F32E50C32ACF8F2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 192 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/2D6456BCE66AA15FAD5B0A7BB1FD67D99711A035
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 193 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/3BDBD316844D1E87FB1569F73EBC401910A20637
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 194 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/storage/default/https+++github.com/ls/data.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 195 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/94A37731E29EB257949C4AB76034F616FCADD5E9
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 196 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/492DC2E04653F3E6B9A6116935B7AD5F976C7BDB
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 197 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/7F4329F9B515079C8B02957243E29EF314C2A587
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 198 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/5DB7915138225E66E5B6BA3A2C7B51080CD18AF7
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 199 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/76077BF31C87EB071049473ABBD0BBDD91F85E4D
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29963]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 20 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 200 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/EFC37524B49A6486F6A0E9DF79A361B20D76B340
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 201 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/FA168EBC32D7538BD60FE3D5E851E975CC0DA74E
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 202 -> socket:[28551]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 203 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/DF76742CD90E824E86FBB0D95D21BE0A9813763A
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 204 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/protections.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 205 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/DB0A1415446B60EC4157FA0B8E76B105111F2451
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 206 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/E14F225D11AFBF464B10A9FDB8F86C7244B05766
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 207 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/ED6378BFF2E05001BB475E195D1F0EA242D6431C
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 209 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/E85EA38E9FC81F34B87869A0B4808AC50F92AC21
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 21 -> socket:[29997]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 210 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/CBBB81CB6F96D8DB6FACCD5DC2280A8E5B8122B8
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 211 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/970CB424CA9DA95C8165C1EA896B1BEEB60B121D
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 212 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/34D2EB07E94B20853BEB73843C041B920F1D0740
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 213 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/D9D5BB12ECD358F0DE33C652982A0670E256A8E0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 214 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/44A8BC1957F022C4D0BA7D0B7A6F4354302C8628
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 215 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/D07B3D29549709612FFA4E76CF6D7DC0DC8A5827
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 216 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/8451F6196B6DDAD44611AB3320392A95BEB0E3F2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 217 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/6CEE4B4C2FA07EF13AF565ED66422CA89F0F193E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 219 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/3577DEA1B9727B61F3846F5F9706C4283C25FB83
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 22 -> socket:[26374]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 220 -> pipe:[34672]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 221 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/9EA182787B0B7861410B420862947C8E0995D168
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 222 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/D2EFAA86EE96591F117F648584F0165483919D03
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 223 -> pipe:[34672]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 224 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/6AA0A8830142F8F5499E0CFB919881C437D1FC45
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 227 -> socket:[35245]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 228 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/1D14991C968817B42B97FC34CF740B1E119BB241
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 229 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/C296C4C3E780412A1F3D086B58A37177D5A47C39
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 23 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/.parentlock
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 230 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0D589D801BB443A435C077F4FCA09A25A7DB233D
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 231 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0F77AF590D1CFCD30962911A05F926DA81AC6732
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 232 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/EAB8649A74AC9FE6C1784FE037CFB30D58BCDC6C
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 233 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/10C1AE95504E59C18C17ED4ED4348FDE018A66B5
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 234 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/4D914625AA87F2644E9BB4AC2C77241D540485EC
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 235 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/A1E297C53A87EBC01C78EEC56F884280CC5D37A0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 236 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/B2A96409C93DE3CAE6EF93D19EB623C4960077B8
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 237 -> socket:[35985]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 238 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/157657F02717659567CDBCF8478DF5B79FBB87C9
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 239 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/9DA9342FA642F69E6FE94B6CC2C8FD7D6FBDA421
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 24 -> socket:[34914]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 240 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/E63B3E82D1D76ACC1B20C969102B4D3045AE033E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 245 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/656CD2DE64FF522EC69E0A910E0CF7B0F1097B0E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 246 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/494B7CB8D8F9E0413E6882557F7A2540622A6EF9
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 248 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/88C999C063F9421D2B26E80D41539A8C5424DD8B
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 249 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/3C73A24566CAEC23161365B2BD75CED833901D6C
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 25 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 250 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/525EE6D411C46974D0652ABC3DFDB6E562F2F364
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 251 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/034A1DE4856D3B8A390CC88D3256DB2172D1942A
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 252 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/DAB664A64104B731223D35B8F515C3694432C1FC
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 253 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/807770DEA0827D8449E44658866582E1FF5D60C3
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 255 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/7A5B7E4F859F3F87A6CAA9AAF56FBD2742943792
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 256 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/BB3B8E1A73520B0E64878940B7463E514BBAD510
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 257 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/C7EBC11AB86E5FA27A91F8E36BAF8C79453ED5BC
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 258 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/415733175B8547445A33015A43C3A7A75252F3D2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 259 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/237F2EF14B2B8D8AA67D68494776896FEE5B4305
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 26 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 260 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/51018B91132F66A750D026ED45C295C7A12A2234
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 261 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/2E352A2B39D64EA56A3B185650737DB55020F062
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 262 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/91A86DF908A1AB04B26CAC0F704E59BC4B9776FB
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 263 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/B627F4F7F9B4E9B5CA45CD40FF1139674824A982
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 264 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/19B56A908AF5123E2E397599BECAA5BB374050F2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 265 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/BE2A0D2290985603C41D367B4ED8CE58CF259C55
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 266 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/B9870852A119CED7F9A217E8703105EA09F4D26E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 267 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/58677C4EF669EA765FC8DBC6F3C059CCCDB27C4B
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 268 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/D612815366E56DB9787016C3608BBB9CA63EEDF0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 269 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0ECC026CE1B65CD7AB7CB18EA315957616238270
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 27 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 270 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0350F3580A5E1BDF4DC2CF2E348286C435262498
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 271 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/7C23828D699ADD3D09D7E4D03A6CDB26260475B0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 272 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/74B0C1B8B90FEFBF8F729CEF70FB34ABC50E7F69
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 273 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/5E68FFF425A0FF1D1AEE921F947028E72406853F
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 274 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/E1D2284AB01A87C2157CA6BB62090E98310ABF28
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 275 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/6015AC57CF684DC0482B183F0925AECCB2C0FAEC
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 276 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/40648A91B5B6CBB086F2086259CA865BBDFBAE0E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 277 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/CC2F964F6EEDBBB33784A0390E35653B881C41EA
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 278 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/6F3177E03FBB0BB1E49AB446310E9E67646BDC4E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 279 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/A98473DE18279B56592C14979273FAE0D8461B63
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 28 -> pipe:[30006]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 280 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/97D5C8C447A7F6732AFE1442A9E529425A36182E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 281 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/AAD4AB24DAD9F03D3EA19E360C1EFC22EADF8EFE
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 282 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/6396E82AD4E06D6FD11DC25455E77F1E6FDA4ADC
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 283 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/D54FC8EE86D665B175D6DA1D8F90C0B8F1551B58
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 284 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/1ABBCF935E538FA9BF3010B1474E7D0B50813F8E
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 285 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/3174A9B7CC21F54D74B8FDC5972423E815F23836
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 286 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/CDFDC8E15DF869AF0BD0C95B60A4EE8931619FA5
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 287 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/9F94FBA803805CA11EE1CDD9922774EAD0A0402F
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 288 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/32E2AC217B12C58A220F037FCAA0DBC6C5D6A030
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 289 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/267941A387F4622DA832D81A07B3356505326E46
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 29 -> pipe:[30006]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 290 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/AFC1E85D455C01CA3B1869AAEEC026B0A9CBF9D2
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 291 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/58B2D9CC1096755B5721824B46D077B4323BB705
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 292 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/548A8C727BDEEE08D0F9EAA3EF2F436295C31D01
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 293 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/AB40483AF4E0281F444228E654648F741E3E7006
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 294 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/A37EC007120322F1F3922C731013E0F0C193E709
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 295 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/4BBF07CCF6D282EAD1A2EF239BE1F09C6116AD51
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 296 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/9761E5658CB06CF2519EAF4F304E9D40B888295F
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 297 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/0D1B9046EE163F53562EF84E06C7D196FD4D19CD
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 298 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/B8FC553C4C4D243219B34D6C3D3103C5CF889E18
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 299 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/4AE7F35CCA1F5CAECD1029429708185EDD0A49F0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 3 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 30 -> pipe:[30007]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 302 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/A504B9C7A045B8B8A7A6FDEA8BE4B122DC158CE6
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 304 -> socket:[35534]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 305 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/29EA773D70E1BC7FDB911AB6688D74DA904DD5C2
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 31 -> pipe:[30007]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 311 -> socket:[34716]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 32 -> pipe:[30008]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 33 -> pipe:[30008]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 34 -> pipe:[34900]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 35 -> pipe:[34900]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 36 -> socket:[30009]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 37 -> pipe:[26346]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 38 -> pipe:[26346]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 39 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 40 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/startupCache.8.little
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 41 -> pipe:[29214]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 42 -> pipe:[29214]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 43 -> socket:[34901]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 44 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 45 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:57 46 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/storage.sqlite
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 47 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-current.bin
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 48 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/FD9E7F426DA1B1E209BD873F8C118BD04129C142
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:57 49 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/cookies.sqlite
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 50 -> socket:[34980]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 51 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 52 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/cookies.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 53 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/27882B51E33854F017C03D8EA125E68928BC9F7F
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 55 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 56 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/permissions.sqlite
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 57 -> pipe:[34916]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 58 -> pipe:[34916]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 59 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> pipe:[34892]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 60 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/cache2/entries/440C8E0E232DDED4CDFEF954616ACA3640A90123
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 61 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 62 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 63 -> socket:[34928]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 64 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 65 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 66 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 67 -> socket:[34919]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 68 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 69 -> /memfd:mozilla-ipc (deleted)
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> pipe:[34892]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 70 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 71 -> socket:[30108]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 72 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 73 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 74 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 75 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 76 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 77 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 79 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 8 -> socket:[29990]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 80 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 81 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 82 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 83 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 84 -> socket:[34923]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 85 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 86 -> socket:[28245]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 87 -> socket:[29265]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 88 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 89 -> socket:[34930]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /memfd:wayland-cursor (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 90 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/content-prefs.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 91 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 92 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/cert9.db
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 93 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/key4.db
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 94 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 95 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/content-prefs.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 97 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 98 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/places.sqlite-wal
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 99 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/favicons.sqlite-wal
+
+/proc/4429/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 1 -> pipe:[29994]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> pipe:[34087]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 11 -> socket:[29993]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 12 -> socket:[28240]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 13 -> socket:[30111]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> /dev/udmabuf
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 15 -> /memfd:lp_dma_buf (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[28252]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[26463]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 18 -> socket:[35091]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 19 -> socket:[35948]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29963]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 20 -> socket:[35135]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 21 -> socket:[34445]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 22 -> socket:[35865]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /dev/null
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/Crash Reports/crash_helper_server.log
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> pipe:[34087]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 8 -> socket:[29990]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> socket:[29991]
+
+/proc/4493/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[23136]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 10 -> socket:[28219]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 11 -> socket:[29243]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 12 -> socket:[28231]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[23136]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 3 -> socket:[34113]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 4 -> socket:[25750]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[25751]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 6 -> socket:[34137]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[25753]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> anon_inode:[eventpoll]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /dev/dri/card0
+
+/proc/4498/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 1 -> socket:[29233]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 11 -> socket:[30038]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 2 -> socket:[29233]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:57 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 14:57 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[29235]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 8 -> socket:[34136]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 9 -> socket:[34140]
+
+/proc/4504/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[23136]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> /dmabuf:
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:sync_file
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> /memfd:allocation fd (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 13 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[23136]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> anon_inode:[eventfd]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 5 -> socket:[26364]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 7 -> socket:[26363]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /dev/udmabuf
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /memfd:lp_dma_buf (deleted)
+
+/proc/4572/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[29233]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 11 -> socket:[30107]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 13 -> anon_inode:inotify
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> socket:[28237]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29233]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 3 -> socket:[29245]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 4 -> /dev/udmabuf
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /memfd:lp_dma_buf (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> /dmabuf:
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> anon_inode:sync_file
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /memfd:allocation fd (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> anon_inode:[eventfd]
+
+/proc/4574/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 1 -> socket:[29963]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 2 -> socket:[29963]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 14:57 3 -> socket:[34915]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 14:57 4 -> pipe:[34916]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 14:57 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/4583/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> pipe:[29253]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> pipe:[26370]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 13 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 15 -> socket:[30109]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[28239]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 18 -> pipe:[28243]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 19 -> pipe:[28243]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29963]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 20 -> pipe:[28244]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 21 -> pipe:[28244]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 22 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 23 -> pipe:[29255]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 24 -> pipe:[29255]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 25 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 27 -> pipe:[34922]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 28 -> pipe:[34922]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 29 -> socket:[26375]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> pipe:[29253]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> pipe:[26370]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/4616/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> pipe:[30120]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:[eventpoll]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 13 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 15 -> socket:[34931]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[28246]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[30110]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 18 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 19 -> pipe:[30122]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 20 -> pipe:[30122]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 21 -> pipe:[30123]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 22 -> pipe:[30123]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 23 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 24 -> socket:[29266]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 25 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 26 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 27 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 28 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> pipe:[30120]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 32 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 34 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 36 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 37 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> pipe:[28263]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 40 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 41 -> /memfd:mozilla-ipc (deleted)
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 42 -> pipe:[28263]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 43 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 44 -> pipe:[30126]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 45 -> pipe:[30126]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 46 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/4624/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> pipe:[34220]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> pipe:[26403]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 13 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 15 -> socket:[34924]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[28251]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 18 -> pipe:[28259]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 19 -> pipe:[28259]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29963]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 20 -> pipe:[28260]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 21 -> pipe:[28260]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 22 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 23 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 24 -> pipe:[34222]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 25 -> pipe:[34222]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 28 -> socket:[34929]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> pipe:[34220]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> pipe:[26403]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/4669/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[34937]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[34938]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 3 -> socket:[34944]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> anon_inode:[eventpoll]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> anon_inode:[eventfd]
+
+/proc/4834/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 10 -> pipe:[26487]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 12 -> pipe:[34279]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17 15:11 13 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 14 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 16 -> socket:[26461]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 17 -> socket:[26462]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 18 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 19 -> pipe:[30169]
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 2 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 20 -> pipe:[30169]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 21 -> pipe:[30170]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 22 -> pipe:[30170]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 23 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 24 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 25 -> socket:[34981]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 26 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lrwx------+1 vboxuser vboxuser 64 Nov 17 15:11 27 -> socket:[34978]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 28 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 3 -> pipe:[26487]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 32 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 34 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 36 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 37 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 38 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 39 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 4 -> pipe:[34279]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 40 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 41 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 43 -> pipe:[28314]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17 15:11 44 -> pipe:[28314]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 49 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17 15:11 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/5160/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 10 -> pipe:[35123]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 12 -> pipe:[29389]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 13 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 15 -> socket:[35089]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 16 -> socket:[35090]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 17 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 18 -> pipe:[30306]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 19 -> pipe:[30306]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 2 -> socket:[29963]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 20 -> pipe:[30307]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 21 -> pipe:[30307]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 22 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 24 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 25 -> pipe:[29390]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 26 -> pipe:[29390]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 28 -> socket:[26541]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> pipe:[35123]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 4 -> pipe:[29389]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/5170/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 10 -> pipe:[35144]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 12 -> pipe:[35148]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 13 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 14 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 15 -> socket:[26570]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 16 -> socket:[30321]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 17 -> socket:[35134]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 18 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 19 -> pipe:[30345]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 2 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 20 -> pipe:[30345]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 21 -> pipe:[30346]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 22 -> pipe:[30346]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 23 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 24 -> pipe:[35151]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 25 -> pipe:[35151]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 26 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 27 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 28 -> socket:[26566]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> pipe:[35144]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 34 -> /home/vboxuser/snap/firefox/common/.mozilla/firefox/33j7y5lk.default/extensions/langpack-en-US@firefox.mozilla.org.xpi
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 36 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 37 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 38 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 39 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 4 -> pipe:[35148]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 40 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 41 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 44 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 45 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/5208/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 10 -> pipe:[29409]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 12 -> pipe:[35154]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 13 -> anon_inode:[eventfd]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 14 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 15 -> socket:[26605]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 16 -> socket:[30351]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 17 -> socket:[34444]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 18 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 19 -> pipe:[35152]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 2 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 20 -> pipe:[35152]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 21 -> pipe:[35153]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 22 -> pipe:[35153]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 23 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 24 -> pipe:[29415]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 25 -> pipe:[29415]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 26 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> pipe:[29409]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 32 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 34 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 36 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 37 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 38 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 39 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 4 -> pipe:[35154]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 40 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 41 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 42 -> socket:[26603]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 45 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/5406/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 10 -> pipe:[29483]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 11 -> anon_inode:[eventpoll]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 12 -> pipe:[34561]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 13 -> pipe:[34561]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 14 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 15 -> socket:[35901]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 16 -> socket:[29476]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 17 -> socket:[35864]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 18 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 19 -> pipe:[34558]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 2 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 20 -> pipe:[34558]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 21 -> pipe:[34559]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 22 -> pipe:[34559]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 23 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 24 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 26 -> socket:[28552]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 27 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 28 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> pipe:[29483]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 32 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 34 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 36 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 37 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 38 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 39 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 42 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 43 -> pipe:[29488]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 44 -> pipe:[29488]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 45 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/5453/fd:
+total 0
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/null
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 1 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 10 -> pipe:[30458]
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 11 -> anon_inode:[eventpoll]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 12 -> pipe:[28584]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 14 -> socket:[34918]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 15 -> socket:[28586]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 16 -> socket:[35246]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 17 -> socket:[35947]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 18 -> socket:[29990]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 19 -> pipe:[28582]
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 2 -> socket:[29963]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 20 -> pipe:[28582]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 21 -> pipe:[28583]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 22 -> pipe:[28583]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 23 -> /memfd:mozilla-ipc (deleted)
+lrwx------+1 vboxuser vboxuser 64 Nov 17  2026 25 -> socket:[35986]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 26 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 27 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 28 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 29 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> pipe:[30458]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 30 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 31 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 32 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 33 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 34 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 35 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 36 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 37 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 38 -> /memfd:mozilla-ipc (deleted)
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 4 -> pipe:[28584]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 40 -> /memfd:mozilla-ipc (deleted)
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 42 -> anon_inode:[eventfd]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 43 -> pipe:[35989]
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 44 -> pipe:[35989]
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 45 -> /home/vboxuser/snap/firefox/common/.cache/mozilla/firefox/33j7y5lk.default/startupCache/scriptCache-child-current.bin
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 5 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 6 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 7 -> /dev/null
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 8 -> /snap/firefox/9171/usr/lib/firefox/omni.ja
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 9 -> /snap/firefox/9171/usr/lib/firefox/browser/omni.ja
+
+/proc/self/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/pts/0
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 1 -> /home/vboxuser/ICT_WiSe26-27/Lecture_5/fd_out.log
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 2 -> /home/vboxuser/ICT_WiSe26-27/Lecture_5/fd_err.log
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> /proc/5747/fd
+
+/proc/thread-self/fd:
+total 0
+lrwx------ 1 vboxuser vboxuser 64 Nov 17  2026 0 -> /dev/pts/0
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 1 -> /home/vboxuser/ICT_WiSe26-27/Lecture_5/fd_out.log
+l-wx------ 1 vboxuser vboxuser 64 Nov 17  2026 2 -> /home/vboxuser/ICT_WiSe26-27/Lecture_5/fd_err.log
+lr-x------ 1 vboxuser vboxuser 64 Nov 17  2026 3 -> /proc/5747/task/5747/fd
+
