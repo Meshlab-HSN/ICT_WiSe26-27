@@ -84,7 +84,7 @@ User sshd has UID 109 and GID 65534.
 ```
 
 
-## 4.Print username and process name using awk
+## 4. Print username and process name using awk
 
 Command:
 ```bash
@@ -206,7 +206,6 @@ sajib-b+ sshd: sajib-barman@pts/0
 sajib-b+ -bash
 ROOT [kworker/u5:0-flush-8:0]
 sajib-b+ ps aux
-112
 ```
 
 
@@ -220,4 +219,4 @@ awk 'NR > 1 {sum += $3} END {printf "Total CPU usage: %.2f%%\n", sum}' processes
 Output:
 ```text
 Total CPU usage: 108.70%
-``
+```
