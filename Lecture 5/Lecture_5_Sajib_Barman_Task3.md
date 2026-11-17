@@ -84,10 +84,10 @@ User sshd has UID 109 and GID 65534.
 ```
 
 
-## 4. Print username and process name using awk
+## 4.Print username and process name using awk
 
 Command:
-``bash
+```bash
 
 awk 'NR > 1 && NF >= 11 { cmd=$11; for (i=12; i<=NF; i++) cmd=cmd " " $i; print $1, cmd }' processes.log
 ```
