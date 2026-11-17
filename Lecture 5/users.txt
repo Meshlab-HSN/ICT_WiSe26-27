@@ -1,0 +1,7 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
+pollinate:x:102:1::/var/cache/pollinate:/bin/false
+tss:x:106:108:TPM software stack,,,:/var/lib/tpm:/bin/false
+barman03:x:1000:1000:barman03:/home/barman03:/bin/bash
+sajib-barman:x:1001:1001:Sajib Barman,,,:/home/sajib-barman:/bin/bash

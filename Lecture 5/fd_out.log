@@ -1,0 +1,46 @@
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/0
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/1
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/10
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/11
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/12
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/13
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/14
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/15
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/16
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/17
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/18
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/19
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/2
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/20
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/21
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/22
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/23
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/24
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/28
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/3
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/30
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/31
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/32
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/35
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/36
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/37
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/38
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/4
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/5
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/6
+lr-x------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/902/fd/7
+l--------- 1 sajib-barman sajib-barman 64 Nov 17 09:20 /proc/902/fd/9
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/914/fd/0 -> /dev/tty1
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/914/fd/1 -> /dev/tty1
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/914/fd/2 -> /dev/tty1
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/914/fd/255 -> /dev/tty1
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/976/fd/0 -> /dev/pts/0
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/976/fd/1 -> /dev/pts/0
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/976/fd/2 -> /dev/pts/0
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/976/fd/255 -> /dev/pts/0
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/self/fd/0 -> /dev/pts/0
+l-wx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/self/fd/1 -> /home/sajib-barman/ICT_WiSe26-27/Lecture 5/fd_out.log
+l-wx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/self/fd/2 -> /home/sajib-barman/ICT_WiSe26-27/Lecture 5/fd_err.log
+lrwx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/thread-self/fd/0 -> /dev/pts/0
+l-wx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/thread-self/fd/1 -> /home/sajib-barman/ICT_WiSe26-27/Lecture 5/fd_out.log
+l-wx------ 1 sajib-barman sajib-barman 64 Nov 17 09:48 /proc/thread-self/fd/2 -> /home/sajib-barman/ICT_WiSe26-27/Lecture 5/fd_err.log
