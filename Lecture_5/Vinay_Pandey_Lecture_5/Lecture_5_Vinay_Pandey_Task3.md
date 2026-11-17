@@ -9,7 +9,7 @@ sed -i 's/root/ROOT/g' processes.log
 
 **Output:**
 ```text
-ROOT           1  0.1  0.4  24712 16160 ?        Ss   17:12   0:02 /usr/lib/systemd/systemd --switched-ROOT --system --deserialize=55 splash noprompt noshell automatic-ubiquity crashkernel=2G-4G:320M,4G-32G:512M,32G-64G:1024M,64G-128G:2048M,128G-:4096M
+ROOT           1  0.0  0.4  24932 16244 ?        Ss   17:12   0:02 /usr/lib/systemd/systemd --switched-root --system --deserialize=55 splash noprompt noshell automatic-ubiquity crashkernel=2G-4G:320M,4G-32G:512M,32G-64G:1024M,64G-128G:2048M,128G-:4096M
 ROOT           2  0.0  0.0      0     0 ?        S    17:12   0:00 [kthreadd]
 ROOT           3  0.0  0.0      0     0 ?        S    17:12   0:00 [pool_workqueue_release]
 ROOT           4  0.0  0.0      0     0 ?        I<   17:12   0:00 [kworker/R-rcu_gp]
@@ -217,5 +217,5 @@ awk 'NR>1 && $1 !~ /^[0-9]+$/ {sum += $3} END {printf "Total CPU usage: %.2f%%\n
 
 **Output:**
 ```text
-Total CPU usage: 151.30%
+Total CPU usage: 221.90%
 ```
